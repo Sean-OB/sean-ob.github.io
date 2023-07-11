@@ -1,15 +1,12 @@
 ---
-# excerpt: 'A novel search technique for ultralight dark matter has been developed and carries out over a narrow range in the L band.'
-# date: 2022-03-01
-# venue: 'The Astrophysical Journal'
 # paperurl: 'http://sean-ob.github.io/files/Keller_2022_ApJ_927_71.pdf'
 # citation: 'Aya, Keller, Sean O'Brien, Adyant Kamdar, Nicholas M. Rapidis, Alexander F. Leder, and Karl van Bibber. (2022). &quot;A Model-Independent Radio Telescope Dark Matter Search.&quot; <i>The Astrophysical Journal.</i>. 927:71.'
 title: "A Model-Independent Radio Telescope Dark Matter Search"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'A novel search technique for ultralight dark matter has been developed and carries out over a narrow range in the L band.'
+date: 2022-03-01
+venue: 'The Astrophysical Journal'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
