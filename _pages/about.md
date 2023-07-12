@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sean O''Brien - Home"
+title: "Sean O'Brien - Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
